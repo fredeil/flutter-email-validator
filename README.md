@@ -1,4 +1,4 @@
-# Email validation
+# Email validation Flutter example
 
 Simple app showing how to validate a email login form.
 

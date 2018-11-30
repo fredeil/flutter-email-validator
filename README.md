@@ -6,4 +6,6 @@ This example uses the [email_validator](https://github.com/fredeil/email-validat
 
 ![Valid state](https://raw.githubusercontent.com/fredeil/flutter-email-validator/master/docs/valid.png)
 
-![Valid state](https://raw.githubusercontent.com/fredeil/flutter-email-validator/master/docs/invalid.png)
+![Invalid state](https://raw.githubusercontent.com/fredeil/flutter-email-validator/master/docs/invalid.png)
+
+

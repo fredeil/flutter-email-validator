@@ -49,7 +49,7 @@ class _LoginPageState extends State<LoginPage> {
             children: [
               TextFormField(
                 decoration: InputDecoration(labelText: 'Email'),
-                validator: (val) => !EmailValidator.Validate(val, true)
+                validator: (val) => !EmailValidator.validate(val, true)
                     ? 'Not a valid email.'
                     : null,
                 onSaved: (val) => _email = val,
